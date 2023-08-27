@@ -1,0 +1,1660 @@
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  /* bannar section start */
+  #banner .banner_slider_item .inner_container h1 {
+    font-size: 125px;
+    color: #ffffff;
+    margin-top: 37%;
+    margin-left: 20px;
+  }
+  #banner .banner_slider_item .inner_container p {
+    font-size: 30px;
+    color: #ffffff;
+    margin-left: 35px;
+  }
+  #banner .banner_slider_item .inner_container a {
+    display: inline-block;
+    padding: 14px 51px;
+    background-color: #303030;
+    color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: 26px;
+    border-radius: 5px;
+    margin-left: 40px;
+    transition: 0.67s;
+  }
+  /* bannar section end */
+
+  /* dance tour section start */
+  #dance .dance_tour {
+    height: 954px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  /* dance tour section end */
+
+  /* amazing section start */
+  #amazing_best .amazing_intro .amazing_inner_info img {
+    position: absolute;
+    top: -19%;
+    right: -22%;
+    z-index: 1;
+    width: 54%;
+    margin-right: 283px;
+    overflow: hidden;
+    height: 43%;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .white_dot_img {
+    position: absolute;
+    top: 31%;
+    height: 19%;
+    right: -20%;
+    width: 49%;
+  }
+  /* amazing section end */
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* bannar section start */
+  #banner .banner_slider_item {
+    height: 644px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #banner .banner_slider_item .inner_container h1 {
+    font-size: 101px;
+    color: #ffffff;
+    margin-top: 37%;
+    margin-left: 20px;
+  }
+  #banner .banner_slider_item .inner_container p {
+    font-size: 27px;
+    color: #ffffff;
+    margin-left: 35px;
+  }
+  #banner .banner_slider_item .inner_container a {
+    display: inline-block;
+    padding: 14px 51px;
+    background-color: #303030;
+    color: #ffffff;
+    text-align: center;
+    font-size: 23px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: 36px;
+    transition: 0.67s;
+  }
+  /* bannar section end */
+
+  /* dance tour section start */
+  #dance .dance_tour {
+    height: 862px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #dance .dance_tour h2 {
+    color: #ffffff;
+    font-size: 72px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 57px;
+  }
+  #dance .dance_tour .dance_tour_p {
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 16px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_info {
+    margin-top: 50px;
+    padding: 0px 0px;
+  }
+  /* dance tour section end */
+
+  /* pricing section start */
+  #pricing {
+    height: 717px;
+    background-image: url(/asstes/images/pricing_bg.jpg);
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #pricing h2 {
+    font-size: 72px;
+    font-weight: 800;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding-top: 48px;
+    padding-bottom: 15px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_img {
+    margin: 53px 0px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info h4 {
+    color: #ffffff;
+    font-size: 32px;
+    padding-bottom: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info p {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  /* pricing section end */
+
+  /* amazing section start */
+  #amazing_best .amazing_intro .amazing_inner_info img {
+    position: absolute;
+    top: -23%;
+    right: -25%;
+    z-index: 1;
+    width: 53%;
+    margin-right: 283px;
+    overflow: hidden;
+    height: 44%;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info h3 {
+    font-size: 69px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: left;
+    margin-left: 58px;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info p {
+    font-size: 26px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    margin-left: 60px;
+    padding-bottom: 38px;
+    padding-top: 13px;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .amazing_ancor {
+    color: #ffffff;
+    font-size: 26px;
+    text-align: center;
+    margin-left: 62px;
+    padding: 10px 65px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    background-color: #303030;
+    transition: 0.67s;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .white_dot_img {
+    position: absolute;
+    top: 31%;
+    height: 19%;
+    right: -23%;
+    width: 49%;
+  }
+
+  #amazing_best .best_intro .best_inner_info h3 {
+    font-size: 70px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: left;
+    margin-left: 59px;
+  }
+  #amazing_best .best_intro .best_inner_info p {
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    margin-left: 61px;
+    padding-bottom: 35px;
+    padding-top: 20px;
+  }
+  #amazing_best .best_intro .best_inner_info a {
+    color: #ffffff;
+    font-size: 26px;
+    text-align: center;
+    margin-left: 64px;
+    padding: 10px 65px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    background-color: #303030;
+    transition: 0.68s;
+  }
+  /* amazing section end */
+
+  /* our section start */
+  #our {
+    padding-top: 92px;
+    padding-bottom: 70px;
+  }
+  #our .our_p {
+    color: #ffffff;
+    font-size: 30px;
+    padding-bottom: 75px;
+    font-family: "Montserrat", sans-serif;
+  }
+  /* our section end */
+
+  /* herbeat section start */
+  #herbert {
+    height: 828px;
+    background-image: url(/asstes/images/Herbert.jpg);
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #herbert p {
+    font-size: 39px;
+    font-family: "Nunito Sans", sans-serif;
+    color: #ffffff;
+    padding-top: 225px;
+  }
+  /* herbeat section end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* nav section start */
+  #mynav ul li a {
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 200%;
+    color: #ffff;
+    text-transform: uppercase;
+    padding: 14px 23px;
+    position: relative;
+    margin-left: -15px;
+  }
+  #mynav .container .nav_icon button {
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 67px;
+    text-align: center;
+  }
+  /* nav section end */
+
+  /* bannar section start */
+  #banner .banner_slider_item {
+    height: 563px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #banner .banner_slider_item .inner_container h1 {
+    font-size: 80px;
+    color: #ffffff;
+    margin-top: 37%;
+    margin-left: 20px;
+  }
+  #banner .banner_slider_item .inner_container p {
+    font-size: 20px;
+    color: #ffffff;
+    margin-left: 35px;
+  }
+  #banner .banner_slider_item .inner_container a {
+    display: inline-block;
+    padding: 13px 42px;
+    background-color: #303030;
+    color: #ffffff;
+    text-align: center;
+    font-size: 19px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: 36px;
+    transition: 0.67s;
+  }
+  /* bannar section end */
+
+  /* dance tour section start */
+  #dance .dance_tour {
+    height: 779px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #dance .dance_tour h2 {
+    color: #ffffff;
+    font-size: 72px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 57px;
+  }
+  #dance .dance_tour .dance_tour_p {
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 16px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_inner_info p {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+    padding-bottom: 20px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_info {
+    margin-top: 50px;
+    padding: 0px 0px;
+  }
+  /* dance tour section end */
+
+  /* pricing section start */
+  #pricing {
+    height: 646px;
+    background-image: url(/asstes/images/pricing_bg.jpg);
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #pricing h2 {
+    font-size: 72px;
+    font-weight: 800;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding-top: 48px;
+    padding-bottom: 15px;
+  }
+  #pricing p {
+    color: #ffffff;
+    font-size: 27px;
+    padding-bottom: 20px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_img {
+    margin: 52px 0px;
+    width: 70px;
+    height: 70px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info h4 {
+    color: #ffffff;
+    font-size: 32px;
+    padding-bottom: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info p {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  /* pricing section end */
+
+  /* amazing section start */
+  #amazing_best .amazing_intro .amazing_inner_info img {
+    position: absolute;
+    top: -23%;
+    right: -31%;
+    z-index: 1;
+    width: 55%;
+    margin-right: 283px;
+    overflow: hidden;
+    height: 52%;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info h3 {
+    font-size: 53px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: left;
+    margin-left: 58px;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info p {
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    margin-left: 60px;
+    padding-bottom: 27px;
+    padding-top: 13px;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .amazing_ancor {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 62px;
+    padding: 10px 48px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    background-color: #303030;
+    transition: 0.67s;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .white_dot_img {
+    position: absolute;
+    top: 33%;
+    height: 17%;
+    right: -28%;
+    width: 49%;
+  }
+
+  #amazing_best .best_intro .best_inner_info h3 {
+    font-size: 53px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: left;
+    margin-left: 59px;
+  }
+  #amazing_best .best_intro .best_inner_info p {
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    margin-left: 61px;
+    padding-bottom: 34px;
+    padding-top: 20px;
+  }
+  #amazing_best .best_intro .best_inner_info a {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 64px;
+    padding: 10px 50px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    background-color: #303030;
+    transition: 0.68s;
+  }
+  /* amazing section end */
+
+  /* our section start */
+  #our {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  #our h2 {
+    color: #ffffff;
+    font-size: 65px;
+    font-weight: 700;
+    padding-bottom: 33px;
+    text-transform: uppercase;
+  }
+  #our .our_p {
+    color: #ffffff;
+    font-size: 24px;
+    padding-bottom: 64px;
+    font-family: "Montserrat", sans-serif;
+  }
+  #our .number h3 {
+    color: #ffffff;
+    font-size: 51px;
+    font-weight: 700;
+  }
+  #our .number p {
+    color: #ffffff;
+    font-size: 30px;
+  }
+  /* our section end */
+
+  /* herbeat section start */
+  #herbert {
+    height: 682px;
+    background-image: url(/asstes/images/Herbert.jpg);
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #herbert p {
+    font-size: 34px;
+    font-family: "Nunito Sans", sans-serif;
+    color: #ffffff;
+    padding-top: 185px;
+  }
+  #herbert h3 {
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-top: 38px;
+  }
+  /* herbeat section end */
+
+  /* subscribe section start */
+  #subscribe {
+    height: 478px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #subscribe h3 {
+    color: #ffffff;
+    font-size: 64px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 64px;
+  }
+  #subscribe p {
+    color: #ffffff;
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 24px;
+    padding-bottom: 47px;
+  }
+  #subscribe .input_section .input_group .form_control {
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+    color: #000000;
+    padding: 17px 190px 17px 20px;
+    border: none;
+  }
+  #subscribe .input_section .input_group button {
+    border: none;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 17px 34px;
+    background-color: #303030;
+    margin-left: -4px;
+    border-radius: 0px 7px 7px 0px;
+    transition: 0.67s;
+  }
+  /* subscribe section end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* nav section start */
+  #mynav ul li a {
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 200%;
+    color: #ffff;
+    text-transform: uppercase;
+    padding: 14px 23px;
+    position: relative;
+    margin-left: -15px;
+  }
+  #mynav .container .nav_icon button {
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 0px;
+    text-align: center;
+  }
+  /* nav section end */
+
+  /* bannar section start */
+  #banner .banner_slider_item {
+    height: 476px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #banner .banner_slider_item .inner_container h1 {
+    font-size: 66px;
+    color: #ffffff;
+    margin-top: 42%;
+    margin-left: 2px;
+  }
+  #banner .banner_slider_item .inner_container p {
+    font-size: 15px;
+    color: #ffffff;
+    margin-left: 12px;
+  }
+  #banner .banner_slider_item .inner_container a {
+    display: inline-block;
+    padding: 12px 32px;
+    background-color: #303030;
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+    transition: 0.67s;
+  }
+  /* bannar section end */
+
+  /* dance tour section start */
+  #dance .dance_tour {
+    height: 724px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #dance .dance_tour h2 {
+    color: #ffffff;
+    font-size: 66px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 57px;
+  }
+  #dance .dance_tour .dance_tour_p {
+    color: #ffffff;
+    font-size: 23px;
+    text-align: center;
+    padding-top: 16px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_info img {
+    width: 416px;
+    height: 254px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_inner_info h3 {
+    font-size: 34px;
+    padding-top: 10px;
+    font-weight: 400;
+    padding-bottom: 8px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_inner_info p {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+    padding-bottom: 20px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_info {
+    margin-top: 50px;
+    padding: 0px 0px;
+  }
+  /* dance tour section end */
+
+  /* pricing section start */
+  #pricing {
+    height: 606px;
+    background-image: url(/asstes/images/pricing_bg.jpg);
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #pricing h2 {
+    font-size: 64px;
+    font-weight: 800;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding-top: 35px;
+    padding-bottom: 15px;
+  }
+  #pricing p {
+    color: #ffffff;
+    font-size: 24px;
+    padding-bottom: 13px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_img {
+    margin: 42px 0px;
+    width: 65px;
+    height: 74px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info h4 {
+    color: #ffffff;
+    font-size: 27px;
+    padding-bottom: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info p {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info .pricing_p {
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+    background-color: #303030;
+    padding: 5px 0px;
+    margin-bottom: 29px;
+    border-radius: 7px;
+    transition: 0.68s;
+  }
+  /* pricing section end */
+
+  /* amazing section start */
+  #amazing_best .amazing_intro .amazing_inner_info img {
+    position: absolute;
+    top: -23%;
+    right: -40%;
+    z-index: 1;
+    width: 55%;
+    margin-right: 283px;
+    overflow: hidden;
+    height: 52%;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info h3 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: left;
+    margin-top: -82px;
+    margin-left: 37px;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info p {
+    font-size: 17px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    margin-left: 38px;
+    padding-bottom: 27px;
+    padding-top: 13px;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .amazing_ancor {
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 40px;
+    padding: 9px 41px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    background-color: #303030;
+    transition: 0.67s;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .white_dot_img {
+    position: absolute;
+    top: 33%;
+    height: 17%;
+    right: -37%;
+    width: 49%;
+  }
+
+  #amazing_best .best_intro .best_inner_info h3 {
+    font-size: 41px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: left;
+    margin-left: 52px;
+  }
+  #amazing_best .best_intro .best_inner_info p {
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    margin-left: 51px;
+    padding-bottom: 34px;
+    padding-top: 20px;
+  }
+  #amazing_best .best_intro .best_inner_info a {
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 52px;
+    padding: 9px 41px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    background-color: #303030;
+    transition: 0.68s;
+  }
+  /* amazing section end */
+
+  /* our section start */
+  #our {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  #our h2 {
+    color: #ffffff;
+    font-size: 53px;
+    font-weight: 700;
+    padding-bottom: 33px;
+    text-transform: uppercase;
+  }
+  #our .our_p {
+    color: #ffffff;
+    font-size: 22px;
+    padding-bottom: 49px;
+    font-family: "Montserrat", sans-serif;
+  }
+  #our .number h3 {
+    color: #ffffff;
+    font-size: 47px;
+    font-weight: 700;
+  }
+  #our .number p {
+    color: #ffffff;
+    font-size: 24px;
+  }
+  /* our section end */
+
+  /* herbeat section start */
+  #herbert {
+    height: 528px;
+    background-image: url(/asstes/images/Herbert.jpg);
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #herbert p {
+    font-size: 27px;
+    font-family: "Nunito Sans", sans-serif;
+    color: #ffffff;
+    padding-top: 152px;
+  }
+  #herbert h3 {
+    font-size: 44px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-top: 38px;
+  }
+  /* herbeat section end */
+
+  /* subscribe section start */
+  #subscribe {
+    height: 428px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #subscribe h3 {
+    color: #ffffff;
+    font-size: 57px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 64px;
+  }
+  #subscribe p {
+    color: #ffffff;
+    font-size: 21px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 24px;
+    padding-bottom: 47px;
+  }
+  #subscribe .input_section .input_group .form_control {
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+    color: #000000;
+    padding: 17px 124px 17px 20px;
+    border: none;
+  }
+  #subscribe .input_section .input_group button {
+    border: none;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 17px 34px;
+    background-color: #303030;
+    margin-left: -4px;
+    border-radius: 0px 7px 7px 0px;
+    transition: 0.67s;
+  }
+  /* subscribe section end */
+
+  /* footer section start */
+  #footer .footer_info p {
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 20px;
+  }
+  #footer ul li a {
+    display: block;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 15px;
+    transition: 0.67s;
+  }
+  /* footer section end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* nav section start */
+  #mynav ul li a {
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 200%;
+    color: #ffff;
+    text-transform: uppercase;
+    padding: 14px 23px;
+    position: relative;
+    margin-left: -15px;
+  }
+  #mynav .container .nav_icon button {
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 0px;
+    text-align: center;
+  }
+  /* nav section end */
+
+  /* bannar section start */
+  #banner .banner_slider_item {
+    height: 320px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #banner .banner_slider_item .inner_container h1 {
+    font-size: 43px;
+    color: #ffffff;
+    margin-top: 40%;
+    margin-left: 9px;
+  }
+  #banner .banner_slider_item .inner_container p {
+    font-size: 12px;
+    color: #ffffff;
+    margin-left: 15px;
+  }
+  #banner .banner_slider_item .inner_container a {
+    display: inline-block;
+    padding: 10px 26px;
+    background-color: #303030;
+    color: #ffffff;
+    text-align: center;
+    font-size: 9px;
+    text-transform: uppercase;
+    margin-top: 8px;
+    border-radius: 5px;
+    margin-left: 10px;
+    transition: 0.67s;
+  }
+  /* bannar section end */
+
+  /* dance tour section start */
+  #dance .dance_tour {
+    height: 524px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #dance .dance_tour h2 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 29px;
+  }
+  #dance .dance_tour .dance_tour_p {
+    color: #ffffff;
+    font-size: 17px;
+    text-align: center;
+    padding-top: 14px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_info img {
+    width: 361px;
+    height: 177px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_inner_info h3 {
+    font-size: 26px;
+    padding-top: 10px;
+    font-weight: 400;
+    padding-bottom: 8px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_inner_info p {
+    font-size: 10px;
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+    padding-bottom: 20px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_info {
+    margin-top: 50px;
+    padding: 0px 0px;
+  }
+  /* dance tour section end */
+
+  /* pricing section start */
+  #pricing {
+    height: 472px;
+    background-image: url(/asstes/images/pricing_bg.jpg);
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #pricing h2 {
+    font-size: 40px;
+    font-weight: 800;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding-top: 22px;
+    padding-bottom: 13px;
+  }
+  #pricing p {
+    color: #ffffff;
+    font-size: 16px;
+    padding-bottom: 2px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_img {
+    margin: 25px 0px;
+    width: 63px;
+    height: 70px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info h4 {
+    color: #ffffff;
+    font-size: 19px;
+    padding-bottom: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info p {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info .pricing_p {
+    color: #ffffff;
+    font-size: 17px;
+    text-align: center;
+    background-color: #303030;
+    padding: 5px 0px;
+    margin-bottom: 29px;
+    border-radius: 7px;
+    transition: 0.68s;
+  }
+  /* pricing section end */
+
+  /* amazing section start */
+  #amazing_best .amazing_intro .amazing_inner_info img {
+    position: absolute;
+    top: -25%;
+    right: -51%;
+    z-index: 1;
+    width: 55%;
+    margin-right: 283px;
+    overflow: hidden;
+    height: 52%;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info h3 {
+    font-size: 29px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: left;
+    margin-top: -144px;
+    margin-left: 26px;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info p {
+    font-size: 13px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    margin-left: 28px;
+    padding-bottom: 27px;
+    padding-top: 13px;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .amazing_ancor {
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    margin-left: 31px;
+    padding: 9px 31px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    background-color: #303030;
+    transition: 0.67s;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .white_dot_img {
+    position: absolute;
+    top: 33%;
+    height: 17%;
+    right: -49%;
+    width: 49%;
+  }
+
+  #amazing_best .best_intro .best_inner_info h3 {
+    font-size: 29px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: left;
+    margin-left: 42px;
+  }
+  #amazing_best .best_intro .best_inner_info p {
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    margin-left: 43px;
+    padding-bottom: 34px;
+    padding-top: 15px;
+  }
+  #amazing_best .best_intro .best_inner_info a {
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    margin-left: 45px;
+    padding: 9px 31px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    background-color: #303030;
+    transition: 0.68s;
+  }
+  /* amazing section end */
+
+  /* our section start */
+  #our {
+    padding-top: 44px;
+    padding-bottom: 50px;
+  }
+  #our h2 {
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 26px;
+    text-transform: uppercase;
+  }
+  #our .our_p {
+    color: #ffffff;
+    font-size: 16px;
+    padding-bottom: 44px;
+    font-family: "Montserrat", sans-serif;
+  }
+  #our .number h3 {
+    color: #ffffff;
+    font-size: 34px;
+    font-weight: 700;
+  }
+  #our .number p {
+    color: #ffffff;
+    font-size: 17px;
+  }
+  /* our section end */
+
+  /* herbeat section start */
+  #herbert {
+    height: 528px;
+    background-image: url(/asstes/images/Herbert.jpg);
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #herbert p {
+    font-size: 27px;
+    font-family: "Nunito Sans", sans-serif;
+    color: #ffffff;
+    padding-top: 152px;
+  }
+  #herbert h3 {
+    font-size: 44px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-top: 38px;
+  }
+  /* herbeat section end */
+
+  /* subscribe section start */
+  #subscribe {
+    height: 281px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #subscribe h3 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 35px;
+  }
+  #subscribe p {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 19px;
+    padding-bottom: 28px;
+  }
+  #subscribe .input_section .input_group .form_control {
+    font-size: 11px;
+    font-family: "Montserrat", sans-serif;
+    color: #000000;
+    padding: 17px 89px 16px 18px;
+    border: none;
+  }
+  #subscribe .input_section .input_group button {
+    border: none;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 16px 31px;
+    background-color: #303030;
+    margin-left: -4px;
+    border-radius: 0px 7px 7px 0px;
+    transition: 0.67s;
+  }
+  /* subscribe section end */
+
+  /* footer section start */
+  #footer {
+    text-align: center;
+    padding-bottom: 52px;
+  }
+  #footer .footer_info p {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 26px;
+    padding-bottom: 7px;
+  }
+  #footer ul li a {
+    display: block;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 15px;
+    transition: 0.67s;
+  }
+  /* footer section end */
+}
+
+/* Extra Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 310px) and (max-width: 575.98px) {
+  /* nav section start */
+  #mynav ul li a {
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 200%;
+    color: #ffff;
+    text-transform: uppercase;
+    padding: 14px 23px;
+    position: relative;
+    margin-left: -15px;
+  }
+  #mynav .container .nav_icon button {
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 0px;
+    text-align: center;
+  }
+  /* nav section end */
+
+  /* bannar section start */
+  #banner .banner_slider_item {
+    height: 43%;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #banner .banner_slider_item .inner_container h1 {
+    font-size: 27px;
+    color: #ffffff;
+    margin-top: 20%;
+    margin-left: 0px;
+  }
+  #banner .banner_slider_item .inner_container p {
+    font-size: 12px;
+    color: #ffffff;
+    margin-left: 2px;
+}
+  #banner .banner_slider_item .inner_container a {
+    display: inline-block;
+    padding: 6px 18px;
+    background-color: #303030;
+    color: #ffffff;
+    text-align: center;
+    font-size: 7px;
+    text-transform: uppercase;
+    margin-top: 8px;
+    border-radius: 5px;
+    margin-left: 2px;
+    transition: 0.67s;
+  }
+  /* bannar section end */
+
+  /* dance tour section start */
+  #dance .dance_tour {
+    height: 1521px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #dance .dance_tour h2 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 29px;
+  }
+  #dance .dance_tour .dance_tour_p {
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 14px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_info img {
+    width: 374px;
+    height: 269px;
+}
+  #dance .dance_tour .dance_tour_intro .dance_tour_inner_info h3 {
+    font-size: 26px;
+    padding-top: 10px;
+    font-weight: 400;
+    padding-bottom: 8px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_inner_info p {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+    padding-bottom: 20px;
+  }
+  #dance .dance_tour .dance_tour_intro .dance_tour_info {
+    margin-top: 50px;
+    padding: 0px 0px;
+  }
+  /* dance tour section end */
+
+  /* pricing section start */
+  #pricing {
+    height: 1257px;
+    background-image: url(/asstes/images/pricing_bg.jpg);
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #pricing h2 {
+    font-size: 40px;
+    font-weight: 800;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding-top: 22px;
+    padding-bottom: 13px;
+  }
+  #pricing p {
+    color: #ffffff;
+    font-size: 16px;
+    padding-bottom: 2px;
+  }
+  #pricing .pricing_intro .row_colour {
+    background-color: #e8631c;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 39px;
+    margin-bottom: 23px;
+}
+  #pricing .pricing_intro .pricing_info .pricing_img {
+    margin: 25px 0px;
+    width: 63px;
+    height: 70px;
+  }
+  #pricing .pricing_intro .pricing_info .pricing_inner_info h4 {
+    color: #ffffff;
+    font-size: 40px;
+    padding-bottom: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+}
+#pricing .pricing_intro .pricing_info .pricing_inner_info p {
+  color: #ffffff;
+  font-size: 19px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  padding-bottom: 20px;
+}
+  #pricing .pricing_intro .pricing_info .pricing_inner_info .pricing_p {
+    color: #ffffff;
+    font-size: 17px;
+    text-align: center;
+    background-color: #303030;
+    padding: 5px 0px;
+    margin-bottom: 29px;
+    border-radius: 7px;
+    transition: 0.68s;
+  }
+  /* pricing section end */
+
+  /* amazing section start */
+  #amazing_best {
+    margin-top: 80px;
+    overflow: hidden;
+    position: relative;
+    background: none;
+    /* background-color: #e8631c; */
+  }
+  .img {
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+    padding-top: 59px;
+}
+  #amazing_best .amazing_intro .amazing_inner_info {
+    /* background-color: #e8631c; */
+    margin-left: -24px;
+    padding-top: 0px;
+    height: 0;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info img {
+    position: absolute;
+    top: -25%;
+    right: -51%;
+    z-index: 1;
+    width: 0;
+    margin-right: 283px;
+    overflow: hidden;
+    height: 0;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info h3 {
+    font-size: 29px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-top: -275px;
+    text-align: center;
+    margin-left: 0;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info p {
+    font-size: 13px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    margin-left: 28px;
+    padding-bottom: 27px;
+    padding-top: 13px;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .amazing_ancor {
+    color: #ffffff;
+    font-size: 12px;
+    /* text-align: center; */
+    margin-left: 106px;
+    padding: 9px 31px;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 7px;
+    background-color: #303030;
+    transition: 0.67s;
+  }
+  #amazing_best .amazing_intro .amazing_inner_info .white_dot_img {
+    position: absolute;
+    top: 33%;
+    height: 0;
+    right: -49%;
+    width: 0;
+  }
+
+  #amazing_best .best_intro {
+    position: relative;
+  }
+  #amazing_best .best_intro .best_inner_info {
+    /* background-color: #e8631c; */
+    margin-right: 32px;
+    height: 0;
+    padding-top: 0;
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    right: 0%;
+  }
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+    padding-top: 15px;
+  }
+  #amazing_best .best_intro .best_inner_info h3 {
+    font-size: 29px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    margin-left: 42px;
+  }
+  #amazing_best .best_intro .best_inner_info p {
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    margin-left: 43px;
+    padding-bottom: 34px;
+    padding-top: 15px;
+  }
+  #amazing_best .best_intro .best_inner_info a {
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    margin-left: 45px;
+    padding: 9px 31px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    background-color: #303030;
+    transition: 0.68s;
+  }
+  /* amazing section end */
+
+  /* our section start */
+  #our {
+    padding-top: 44px;
+    padding-bottom: 50px;
+  }
+  #our h2 {
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 26px;
+    text-transform: uppercase;
+  }
+  #our .our_p {
+    color: #ffffff;
+    font-size: 16px;
+    padding-bottom: 44px;
+    font-family: "Montserrat", sans-serif;
+  }
+  #our .number h3 {
+    color: #ffffff;
+    font-size: 34px;
+    font-weight: 700;
+  }
+  #our .number p {
+    color: #ffffff;
+    font-size: 17px;
+    padding-bottom: 14px;
+}
+  /* our section end */
+
+  /* herbeat section start */
+  #herbert {
+    height: 528px;
+    background-image: url(/asstes/images/Herbert.jpg);
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #herbert p {
+    font-size: 16px;
+    font-family: "Nunito Sans", sans-serif;
+    color: #ffffff;
+    padding-top: 152px;
+}
+#herbert h3 {
+  font-size: 35px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding-top: 38px;
+}
+  /* herbeat section end */
+
+  /* subscribe section start */
+  #subscribe {
+    height: 281px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+  }
+  #subscribe h3 {
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 35px;
+}
+#subscribe p {
+  color: #ffffff;
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
+  padding-top: 19px;
+  padding-bottom: 28px;
+}
+#subscribe .input_section .input_group .form_control {
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
+  color: #000000;
+  padding: 16px 0px 15px 25px;
+  border: none;
+}
+  #subscribe .input_section .input_group button {
+    border: none;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 16px 31px;
+    background-color: #303030;
+    margin-left: -4px;
+    border-radius: 0px 7px 7px 0px;
+    transition: 0.67s;
+  }
+  /* subscribe section end */
+
+  /* footer section start */
+  #footer {
+    text-align: center;
+    padding-bottom: 52px;
+  }
+  #footer .footer_info p {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 26px;
+    padding-bottom: 7px;
+  }
+  #footer ul li a {
+    display: block;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 15px;
+    transition: 0.67s;
+  }
+  /* footer section end */
+}
+
+@media (min-width: 2199.98px) {
+}
+
+@media (max-width: 1999.98px) {
+}
+
+@media (max-width: 575.98px) {
+}
+@media (max-width: 574.98px) {
+}
